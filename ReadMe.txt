@@ -1,7 +1,8 @@
 readmits.py
 This file reads the dataset and constructs the matrices.
 
-There are four python files,each for each question.
+There are four python files, one for each question.  
+
 Script1.py:
 The results are as follows: PCA, LDA, t-SNE
 
